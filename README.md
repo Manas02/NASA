@@ -2,7 +2,8 @@
 ## A simple CLI to get images from mars rovers using Nasa's API.
 
 ### How it works :
-#### When you run `martian` in terminal the program will make a `mars.md` file in your current folder
+#### When you run `martian` in terminal the program will make a `mars.md` file in your current folder.
+#### For it to work you will need API key 🔑 from NASA which you can get from [HERE](http://api.nasa.gov/) (It's free).
 #### Use any MarkDown reader to open `mars.md` and see images.
 
 ### Demo :
