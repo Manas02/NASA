@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-MIT License
+MIT License. 
 
 Copyright (c) 2020 Manas Mahale
 
